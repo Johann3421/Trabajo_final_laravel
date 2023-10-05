@@ -95,7 +95,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="Actividad 1" />
+                                <img class="img-fluid" src="assets/img/portfolio/1_h.jpg" alt="Actividad 1" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Explora el Centro Histórico</div>
@@ -110,7 +110,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="Actividad 2" />
+                                <img class="img-fluid" src="assets/img/portfolio/2_h.jpg" alt="Actividad 2" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Visita el Parque Nacional Tingo María</div>
@@ -125,7 +125,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="Actividad 3" />
+                                <img class="img-fluid" src="assets/img/portfolio/3_h.jpg" alt="Actividad 3" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Degusta la Gastronomía Local</div>
