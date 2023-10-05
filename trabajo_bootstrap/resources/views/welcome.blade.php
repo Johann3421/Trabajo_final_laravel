@@ -189,23 +189,23 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1_h.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
+                                <h4>15 de agosto de 1539</h4>
+                                <h4 class="subheading">Fundacion de la ciudad de Huanuco</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Fundada el 15 de agosto de 1539 bajo el nombre de “La Muy Noble y Leal Ciudad de Los Caballeros de León de Huánuco”, por el comandante español, Gómez de Alvarado y Contreras, en las pampas de Huánuco Viejo.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2_h.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4>1960, 1963 y 1966</h4>
+                                <h4 class="subheading">sitio arqueológico de Kotosh</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Huánuco de fiesta. Hace 50 años se descubrió el segundo par de Manos Cruzadas dentro del templo del mismo nombre, en el sitio arqueológico de Kotosh, ubicado en el departamento de Huánuco; una forma de celebrarlo es con una exposición  con la exhibición de las mejores réplicas existentes de las Manos Cruzadas,  una iniciativa del Museo Móvil del Museo Universitario de la Universidad de Tokio.</p></div>
                         </div>
                     </li>
                     <li>
